@@ -14,5 +14,5 @@ JavaScript • Node.js • Express • React • MySQL • Sequelize • Docker 
 
 ## 📫 Contato
 
-* LinkedIn: (seu link)
-* Email: (seu email)
+* LinkedIn: https://www.linkedin.com/in/fernandosimoesdev/
+* Email: fernandodasilvasimoes10@gmail.com
