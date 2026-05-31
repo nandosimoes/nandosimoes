@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Fernando Simões
 
 💻 Desenvolvedor Full Stack
-🎓 ADS na UNIFecaf | Técnico em TI pelo SENAI
+🎓 ADS na UNIFecaf | Técnico em DS pelo SENAI
 🚀 Foco em backend, APIs e aplicações web
 
 ## 🧠 Sobre mim
